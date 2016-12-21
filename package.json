@@ -1,6 +1,6 @@
 {
-  "name": "react-notification",
-  "version": "6.5.2",
+  "name": "@ubergrape/react-notification",
+  "version": "6.5.3",
   "description": "Snackbar style notification component for React",
   "main": "dist/index.js",
   "scripts": {
